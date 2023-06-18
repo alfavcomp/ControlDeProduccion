@@ -1,0 +1,11 @@
+Package: contrlpro
+Type: Package
+Title: realiza el control de la produccion de un sisteme de ciclo completo en porcinos
+Version: 0.1.0
+Author: jesus favian villatoro martinez
+Maintainer: The package maintainer <favianvilla2001@gmail.com>
+Description: este paquete realiza calculos que miden los factores de la produccion dentrode un sistema de crianza de porcinos de ciclo completo.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
